@@ -6,4 +6,4 @@
 
 [EJERCICIOS BASICOS DE PYTHON](https://github.com/victothugocantu/mineria-de-datos/blob/main/EJERICIOS%20BASICOS%20PYTHON%201.ipynb)
 
-[PRESENTACION 1] (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Presentacion_OUTLIERS_Equipo8.pdf)
+[PRESENTACION 1](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Presentacion_OUTLIERS_Equipo8.pdf)
