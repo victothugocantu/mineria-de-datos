@@ -15,3 +15,5 @@
 [PRESENTACION ](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Presentacion_OUTLIERS_Equipo8.pdf)
 
 [CALIFICACION EQUIPO 8 OUTLIERS](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Calificaci%C3%B3n_OUTLIERS_Equipo-8.pdf)
+
+[MAPA MENTAL 2](https://github.com/victothugocantu/mineria-de-datos/blob/main/MAPA%20MENTAL%202%20PDF.pdf)
